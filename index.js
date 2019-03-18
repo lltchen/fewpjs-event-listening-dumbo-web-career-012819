@@ -1,3 +1,6 @@
 function addingEventListener() {
- document.querySelector("input#input")
+ const inputTag = document.querySelector("input#input")
+ inputTag.addEventListener("click",function(event){
+   alert("event")
+ })
 }

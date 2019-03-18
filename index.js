@@ -1,3 +1,3 @@
-function addingEventListener(cat) {
-  cat.addingEventListener()
+function addingEventListener() {
+ document.querySelector("input#input")
 }

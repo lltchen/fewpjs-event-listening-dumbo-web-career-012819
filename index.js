@@ -1,2 +1,3 @@
-function addingEventListener() {
+function addingEventListener(cat) {
+  cat.addingEventListener()
 }
